@@ -4,8 +4,8 @@
 Собственная реализация модальной презентация как в iOS 13
 
 ##### Готовые библиотеки
-- [ ] https://github.com/ivanvorobei/SPStorkController
-- [ ] https://github.com/HarshilShah/DeckTransition
+- https://github.com/ivanvorobei/SPStorkController
+- https://github.com/HarshilShah/DeckTransition
 
 ##### Что выложить до начала презентации!!!
 - [ ] Презентация
