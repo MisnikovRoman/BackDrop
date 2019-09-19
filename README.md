@@ -14,6 +14,9 @@
 - Custom UIViewController Transitions: Getting Started https://www.raywenderlich.com/322-custom-uiviewcontroller-transitions-getting-started
 - iOS Animation Tutorial: Custom View Controller Presentation Transitions https://www.raywenderlich.com/2925473-ios-animation-tutorial-custom-view-controller-presentation-transitions
 
+##### Дополнительно
+- Hero (готовые анимации) https://github.com/HeroTransitions/Hero
+
 ##### Что выложить до начала презентации!!!
 - [ ] Презентация
 - [ ] Код BackdropTransitionDelegate
